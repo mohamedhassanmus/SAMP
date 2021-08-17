@@ -2,6 +2,6 @@
 
 [[Project Page](https://samp.is.tue.mpg.de/)]
 
-![SAMP Examples](./images/teaser.jpg)
+![SAMP Examples](teaser.png)
 # Coming Soon
 
