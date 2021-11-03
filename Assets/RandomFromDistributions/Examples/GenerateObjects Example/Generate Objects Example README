@@ -1,0 +1,5 @@
+Generate Objects is an editor script which will create a random cluster of GameObjects from a prefab.
+
+In this example scene, click on generater tester and click Generate Objects to create a new cluster based on the given parameters.
+
+If for some reason the button isn't there, check the drop down menu on the gear in the top right of the script editor panel for the menu item "Generate Obejcts!".

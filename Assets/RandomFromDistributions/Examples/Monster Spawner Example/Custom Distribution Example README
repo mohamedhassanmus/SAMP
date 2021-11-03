@@ -1,0 +1,3 @@
+Play the scene, and MonsterSpawnere will continuously spawn new monsters following the custom distribution set in its Monster Spawner script.
+
+Adjust the frequencies array and watch how the proportions of monsters change to match. Increase the Max Num Monsters to a few hundred to see this more dramatically!

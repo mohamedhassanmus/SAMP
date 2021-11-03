@@ -1,0 +1,61 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.2.202087883)
+
+newmtl Carpet_Loop_Pattern1
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.33 0.33 0.33
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+map_Kd ../images/Carpet_Loop_Pattern1.jpg
+
+newmtl Carpet_Loop_PatternnoCulling
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.33 0.33 0.33
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+map_Kd ../images/Carpet_Loop_PatternnoCulling.jpg
+
+newmtl ForegroundColor
+Kd 0 0 0
+Ka 0 0 0
+Ks 0.33 0.33 0.33
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+
+newmtl FrontColorNoCulling
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.33 0.33 0.33
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+
+newmtl Wood_Cherry_Original1
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.33 0.33 0.33
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+map_Kd ../images/Wood_Cherry_Original1.jpg
+
+newmtl Wood_Cherry_OriginalnoCulling
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.33 0.33 0.33
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+map_Kd ../images/Wood_Cherry_OriginalnoCulling.jpg
+
