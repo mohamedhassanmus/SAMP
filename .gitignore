@@ -4,13 +4,7 @@
 #
 
 *.meta
-/Assets/Complete_Home_Interior_Pack/
-/Assets/Demo*/
-/Assets/ModernHouseInteriorProps/
-/Assets/MotionCapture/
-/Assets/Palette/Interaction/
-/Assets/test/
-/Assets/Plugins/
+
 
 /Recordings/
 /Packages/
