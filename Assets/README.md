@@ -7,15 +7,6 @@
 This repository contains the runtime Unity code for [SAMP](https://samp.is.tue.mpg.de/). For the training code; please see [Training Code](https://github.com/mohamedhassanmus/SAMP_Training).
 The runtime Unity code is largly based on the code of [Neural State Machine](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_Asia_2019) by [Sebastian Starke](https://github.com/sebastianstarke).
 
-## Installation
-Our neural networks are saved as [ONNX models](https://onnx.ai/). We use `Barracuda` which is an inference library which can load `ONNX` models in Unity. More details about Barracuda [here](https://docs.unity3d.com/Packages/com.unity.barracuda@1.0/manual/index.html).
-
-To install Barracuda; go to `Header -> Windows -> Package Manager` and do the following in the `Package Manager`:
-- Go to `Advanced` and enable `Show preview packages`.
-- Search for `Barracuda`. 
-- Once you find it, click `See all versions`
-- Install version `1.3.2-preview`. This project was only tested with this version. Newer versions might not work.
-
 ## Running SAMP
 We provide several demo scenes for testing SAMP.
 
